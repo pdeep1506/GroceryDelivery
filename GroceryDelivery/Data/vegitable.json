@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "name": "Carrot",
+      "image_url": "https://example.com/carrot.jpg",
+      "price": 1.25,
+      "nutritional_values": {
+        "proteins": 0.6,
+        "fats": 0.2,
+        "carbohydrates": 6.0
+      }
+    },
+    {
+      "id": 2,
+      "name": "Broccoli",
+      "image_url": "https://example.com/broccoli.jpg",
+      "price": 2.00,
+      "nutritional_values": {
+        "proteins": 2.8,
+        "fats": 0.4,
+        "carbohydrates": 6.6
+      }
+    },
+    {
+      "id": 3,
+      "name": "Spinach",
+      "image_url": "https://example.com/spinach.jpg",
+      "price": 1.75,
+      "nutritional_values": {
+        "proteins": 2.9,
+        "fats": 0.4,
+        "carbohydrates": 3.6
+      }
+    },
+    {
+      "id": 4,
+      "name": "Tomato",
+      "image_url": "https://example.com/tomato.jpg",
+      "price": 1.50,
+      "nutritional_values": {
+        "proteins": 1.0,
+        "fats": 0.2,
+        "carbohydrates": 3.9
+      }
+    },
+    {
+      "id": 5,
+      "name": "Lettuce",
+      "image_url": "https://example.com/lettuce.jpg",
+      "price": 1.80,
+      "nutritional_values": {
+        "proteins": 1.4,
+        "fats": 0.2,
+        "carbohydrates": 2.9
+      }
+    },
+    {
+      "id": 6,
+      "name": "Bell Pepper",
+      "image_url": "https://example.com/bell_pepper.jpg",
+      "price": 2.25,
+      "nutritional_values": {
+        "proteins": 1.0,
+        "fats": 0.3,
+        "carbohydrates": 6.0
+      }
+    },
+    {
+      "id": 7,
+      "name": "Cucumber",
+      "image_url": "https://example.com/cucumber.jpg",
+      "price": 1.20,
+      "nutritional_values": {
+        "proteins": 0.7,
+        "fats": 0.2,
+        "carbohydrates": 3.6
+      }
+    },
+    {
+      "id": 8,
+      "name": "Cabbage",
+      "image_url": "https://example.com/cabbage.jpg",
+      "price": 1.60,
+      "nutritional_values": {
+        "proteins": 1.3,
+        "fats": 0.1,
+        "carbohydrates": 6.0
+      }
+    },
+    {
+      "id": 9,
+      "name": "Onion",
+      "image_url": "https://example.com/onion.jpg",
+      "price": 1.35,
+      "nutritional_values": {
+        "proteins": 1.1,
+        "fats": 0.1,
+        "carbohydrates": 7.6
+      }
+    },
+    {
+      "id": 10,
+      "name": "Zucchini",
+      "image_url": "https://example.com/zucchini.jpg",
+      "price": 1.95,
+      "nutritional_values": {
+        "proteins": 1.2,
+        "fats": 0.5,
+        "carbohydrates": 3.1
+      }
+    },
+    {
+      "id": 11,
+      "name": "Beetroot",
+      "image_url": "https://example.com/beetroot.jpg",
+      "price": 1.90,
+      "nutritional_values": {
+        "proteins": 1.6,
+        "fats": 0.2,
+        "carbohydrates": 8.7
+      }
+    },
+    {
+      "id": 12,
+      "name": "Eggplant",
+      "image_url": "https://example.com/eggplant.jpg",
+      "price": 2.10,
+      "nutritional_values": {
+        "proteins": 1.0,
+        "fats": 0.2,
+        "carbohydrates": 5.7
+      }
+    },
+    {
+      "id": 13,
+      "name": "Green Beans",
+      "image_url": "https://example.com/green_beans.jpg",
+      "price": 2.50,
+      "nutritional_values": {
+        "proteins": 1.8,
+        "fats": 0.2,
+        "carbohydrates": 7.1
+      }
+    },
+    {
+      "id": 14,
+      "name": "Radish",
+      "image_url": "https://example.com/radish.jpg",
+      "price": 1.30,
+      "nutritional_values": {
+        "proteins": 0.7,
+        "fats": 0.1,
+        "carbohydrates": 3.4
+      }
+    },
+    {
+      "id": 15,
+      "name": "Artichoke",
+      "image_url": "https://example.com/artichoke.jpg",
+      "price": 2.75,
+      "nutritional_values": {
+        "proteins": 3.3,
+        "fats": 0.2,
+        "carbohydrates": 13.4
+      }
+    }
+  ]
+
